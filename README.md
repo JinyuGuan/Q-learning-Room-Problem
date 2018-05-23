@@ -6,4 +6,4 @@
 
 The following dependencies are required.
 
-* **[MATLAB 2012+]
+* **[MATLAB 2012+] **
